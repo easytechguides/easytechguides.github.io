@@ -1,0 +1,21 @@
+body {
+    background:#00152A;
+    font-family:arial;
+    font-size:100%;
+    color:#fff;
+}
+
+.container {
+    width:100%;
+    max-width:320px;
+    margin:20px auto;
+}
+
+h1 {
+    font-size:200%;
+}
+
+p {
+    font-size:112.5%;    
+    line-height:150%;
+}
