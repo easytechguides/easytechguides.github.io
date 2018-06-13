@@ -1,5 +1,5 @@
 body {
-    background:#00152A;
+    background:#002266;
     font-family:arial;
     font-size:100%;
     color:#fff;
@@ -9,13 +9,4 @@ body {
     width:100%;
     max-width:320px;
     margin:20px auto;
-}
-
-h1 {
-    font-size:200%;
-}
-
-p {
-    font-size:112.5%;    
-    line-height:150%;
 }
